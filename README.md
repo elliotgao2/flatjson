@@ -1,6 +1,6 @@
 ## Flatjson
 
-Flatten json.
+Flatten JSON.
 
 ## Installation
 
