@@ -1,8 +1,10 @@
 [tool.poetry]
 name = "flatjson"
-version = "0.1.0"
+version = "0.1.1"
 description = "Flatten json."
 authors = ["Jiuli Gao <gaojiuli@gmail.com>"]
+readme = "README.md"
+repository = "https://github.com/gaojiuli/flatjson"
 
 [tool.poetry.dependencies]
 python = "^3.6"
