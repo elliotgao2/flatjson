@@ -6,7 +6,7 @@ Flatten json.
 
 `pip install flatjson`
 
-##　 Usage
+## Usage
 
 ```python
 import flatjson
